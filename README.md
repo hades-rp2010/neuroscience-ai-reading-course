@@ -23,4 +23,3 @@ Notes for the Neuroscience & AI Reading Course (SEM-I 2020-21) at BITS Pilani Go
 2. [Deep Reinforcement Learning with Relational Inductive biases](./Rishabh_2018AAPS0348G/Deep%20RL%20with%20relational%20inductive%20biases/Deep%20RL%20with%20relational%20inductive%20biases.md)
 3. [Relational Inductive biases for physical construction in humans and machines](./Rishabh_2018AAPS0348G/Relational%20inductive%20bias%20for%20physical%20construction%20in%20humans%20and%20machines)
 4. [Putting bandits into context - How functional learning supports decision making](./Rishabh_2018AAPS0348G/Putting%20bandits%20into%20context%20-%20How%20functional%20learning%20supports%20decision%20making)
-=======
